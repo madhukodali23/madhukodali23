@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Enhancing real-world projects using best practices in React, Node.js, and Express**
 
-- 👨‍💻 All of my projects are available at [kmadhuportfolio.ccbp.tech](kmadhuportfolio.ccbp.tech)
+- 👨‍💻 All of my projects are available at [https://kmadhuportfolio.ccbp.tech/](https://kmadhuportfolio.ccbp.tech/)
 
 - 💬 Ask me about **React, Node.js, JavaScript, and building full-stack web apps.**
 
