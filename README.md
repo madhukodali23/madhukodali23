@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Enhancing real-world projects using best practices in React, Node.js, and Express**
 
-- 👨‍💻 All of my projects are available at [(https://madhukodali23.github.io/GalaxyPortfolio)])
+- 👨‍💻 All of my projects are available at https://madhukodali23.github.io/GalaxyPortfolio
 
 - 💬 Ask me about **React, Node.js, JavaScript, and building full-stack web apps.**
 
