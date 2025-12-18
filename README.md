@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kodali Madhu Kanth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-62-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits%20(2024)-378-blue?style=for-the-badge&logo=git" />
-</p>
+<h3 align="center">🏆 GitHub Highlights</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-753-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grade-B--purple?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/madhukodali23?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/madhukodali23?style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/y/madhukodali23?style=flat-square" />
 </p>
+
 
 
 - 🔭 I’m currently working on [Jobby App – A job search platform clone](https://jobbyapp.ccbp.tech/login)
