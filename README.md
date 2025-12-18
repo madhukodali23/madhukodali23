@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kodali Madhu Kanth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-62-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits%20(2024)-378-blue?style=for-the-badge&logo=git" />
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=madhukodali23&label=Profile%20Views&color=0e75b6&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-753-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grade-B--purple?style=for-the-badge" />
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=madhukodali23&theme=flat&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 
 
