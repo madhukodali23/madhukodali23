@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stars-62-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits%20(2024)-378-blue?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Commits%20-378-blue?style=for-the-badge&logo=git" />
 </p>
 
 <p align="center">
