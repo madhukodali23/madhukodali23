@@ -1,6 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Jobby App – A job search platform clone<br>🌱 I’m currently learning Advanced React Concepts, Python, and Full-Stack Web Development (MERN Stack)<br>👯 I’m looking to collaborate on Open Source MERN Stack Projects<br>🤝 I’m looking for help with Enhancing real-world projects using best practices in React, Node.js, and Express<br>👨‍💻 All of my projects are available at GalaxyPortfolio<br>💬 Ask me about React, Node.js, JavaScript, and building full-stack web apps.<br>📫 How to reach me madhukanth838@gmail.com<br>⚡ Fun fact I debug my code faster with snacks beside me 🍪💻
-
+🔭 I’m currently working on [NxtWatch – A video streaming platform](https://streamwave.ccbp.tech)<br>
+🌱 I’m currently learning Advanced React Concepts, Python, and Full-Stack Web Development (MERN Stack)<br>
+👯 I’m looking to collaborate on Open Source MERN Stack Projects<br>
+🤝 I’m looking for help with Enhancing real-world projects using best practices in React, Node.js, and Express<br>
+👨‍💻 All of my projects are available at [GalaxyPortfolio](https://madhukodali23.github.io/GalaxyPortfolio)<br>
+💬 Ask me about React, Node.js, JavaScript, and building full-stack web apps.<br>
+📫 How to reach me madhukanth838@gmail.com<br>
+⚡ Fun fact I debug my code faster with snacks beside me 🍪💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhu-kanth-kodali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhukanth838@gmail.com) 
