@@ -7,14 +7,6 @@
   <img src="https://img.shields.io/badge/Commits%20-378-blue?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-753-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grade-B--purple?style=for-the-badge" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukodali23&label=Profile%20views&color=0e75b6&style=flat" alt="madhukodali23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukodali23" alt="madhukodali23" /></a> </p>
 
 - 🔭 I’m currently working on [Jobby App – A job search platform clone](https://jobbyapp.ccbp.tech/login)
 - 🌱 I’m currently learning **Advanced React Concepts, Python, and Full-Stack Web Development (MERN Stack)**
