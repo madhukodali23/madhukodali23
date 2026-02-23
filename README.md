@@ -17,7 +17,6 @@
 # 📊 GitHub Stats:
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madhukodali23&show_icons=true&theme=dark)
-
 ![Streak](https://streak-stats.demolab.com?user=madhukodali23&theme=dark)
 
 ![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=madhukodali23&layout=compact&theme=dark)
